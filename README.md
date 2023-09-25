@@ -1,7 +1,7 @@
 ## Project Title: Temperature Prediction
 
 ### Overview
-In this project, I will predict tomorrow's temperature using historical data. I will begin by downloading a dataset of local weather, which you can customize for your specific location. Then, I will proceed to clean the data and prepare it for machine learning. I will develop a system for making historical predictions and subsequently enhance the model's accuracy by introducing additional predictors. Finally, I will conclude the project by explaining how to make predictions for the next day.
+In this project, I prediced tomorrow's temperature using historical data. I began by downloading a dataset of local weather from NOAA, which you can customize for your specific location. Then, I proceeded to clean the data and prepare it for machine learning. I developed a system for making historical predictions and subsequently enhance the model's accuracy by introducing additional predictors. Finally, I concluded the project by getting the predictions for the next day.
 
 ### Project Steps
 #### 1. Download Weather Data
